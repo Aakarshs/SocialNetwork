@@ -2,7 +2,7 @@
 import axios from "axios";
 
 //var that contains the URL to the backend.
-var backendUrl = "https://socialearlham.herokuapp.com/";
+var backendUrl = "https://socialearlham.herokuapp.com";
 
 //Calls the end-point to get the data from the backend.
 export const getList = () => {
