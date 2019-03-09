@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aakarshs.github.io/egramClient/",
+  "homepage": "https://aakarshs.github.io/SocialNetwork/",
   "dependencies": {
     "axios": "^0.18.0",
     "jss": "^9.8.7",
